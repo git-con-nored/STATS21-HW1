@@ -1,0 +1,2 @@
+This is a simple note.
+We are testing if this works.
